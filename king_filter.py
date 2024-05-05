@@ -4,6 +4,8 @@ import random
 import sys
 import os
 
+system.(clear) 
+
 sleep(1)
 
 print("         start           ")
