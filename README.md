@@ -4,7 +4,7 @@
 
 2- cd filtering_rubika_kinghack
 
-3- python filter_king.py
+3- python king_filter.py
 
 
 خب خب، اینم از این، یادتون باشه هر ۲۴ ساعت این اسکریپتو اپدیت میکنم باع. 
