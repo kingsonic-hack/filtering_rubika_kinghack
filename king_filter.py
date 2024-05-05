@@ -3,8 +3,9 @@ from os import system
 import random
 import sys
 import os
+import subprocess
 
-system.(clear) 
+subprocess.run('clear')
 
 sleep(1)
 
