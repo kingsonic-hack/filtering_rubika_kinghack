@@ -17,7 +17,7 @@ print("")
 sleep(.3)
 
 
-print(f"""                    ꧁kingsonic_hack꧂        """)
+print(f"""                      ꧁kingsonic_hack꧂        """)
 sleep(2)
 print("")
 sleep(.3)
