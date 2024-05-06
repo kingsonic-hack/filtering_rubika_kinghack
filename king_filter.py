@@ -31,6 +31,7 @@ code = input(Fore.LIGHTBLUE_EX+f"""
 (1) filter account
 (2) filter channel 
 (3) super filter
+(4) lag code
 select>>>""")
 
 if code == "1":
@@ -56,7 +57,7 @@ if code == "3":
 		sleep(2)
 		print("")
 		print(Fore.LIGHTBLUE_EX+"your filter code: ")
-		print(Fore.RED+"(1.1.1.1.1.1.1.1.1.1.1.4.3.1/////fu///ck///.4.6.8.9.0.1.1.2.3.5//////filtr///ing/////f/1.2.3/y/1.3.////y/////1.1.1.2.3.4.5.6.7.8//////f/////.9.9.1.1.1.0.0.0.2.3.4.5)")
+		print(Fore.RED+"(1.1.1.1.1.1.1.1.1.1.1.4.3.1/////fu///ck///.4.6.8.9.0.1.1.2.3.5//////filtr///ing/////f/1.2.3/y/1.3.////y/////1.1.1.2.3.4.5.6.7.8//////f/////.9.9.1.1.1.0.0.0.2.3.4.5)") 
 		
 		print("")
 		sleep(2)
@@ -78,3 +79,21 @@ if code == "2":
         print("     END HACK   ")
         
         sleep(4)
+
+if code == "4":
+
+	sleep(.3)
+	
+	print(Fore.BLUE+"loading...")
+	sleep(2)
+	print("")
+	print(Fore.LIGHTBLUE_EX+"your lag code: ")
+	print(Fore.RED+"1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1)")
+		
+	print("")
+
+        sleep(2)
+		
+	print("     END HACK")
+		
+	sleep(4)
